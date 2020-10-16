@@ -2,7 +2,7 @@
 
 Main repository: <a href="https://github.com/DFAxCMU/sentence-mosaics">DFAxCMU/sentence-mosaics</a>
 
-<a href="https://kaylinli.github.io/SentenceMosaicsWebsite/">Website for Sentence Mosaics!</a>
+<a href="http://sentencemosaics.com/">Website for Sentence Mosaics!</a>
 
 Sentence Mosaics is a FREE APP for the development or remediation of expressive language skills through the use of personal photos & colored “tiles.” Currently only supported on iOS (iPhone and iPad).
 
