@@ -35,20 +35,20 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Make personalized sentences
-    description                           : Students can upload their own photos to build understanding of how to construct sentences involving the people and interactions in their own lives.
+    description                           : Users can construct sentences using different parts of speech and involving the people and interactions in their own lives.
     fontawesome_icon_name                 : user-circle
     
-  - title                                 : Basic, flexible, and highly functional
-    description                           : Interface is built to be intuitive and customizable for any user, with large buttons and support on both iPhone and iPad.
-    fontawesome_icon_name                 : cog
+  - title                                 : Import custom photos
+    description                           : Sentences are associated with the user's photos and reinforces the user's understanding.
+    fontawesome_icon_name                 : images
 
-  - title                                 : 
-    description                           : 
-    fontawesome_icon_name                 : 
+  - title                                 : Organize sentences and photos with folders
+    description                           : Photos can be grouped into folders that can be easily renamed and deleted.
+    fontawesome_icon_name                 : folder-open
 
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  - title                                 : Listen to recordings of sentences
+    description                           : Users can record the pronunciation of sentences and listen to the recordings as they practice saying the sentences themselves.
+    fontawesome_icon_name                 : microphone
 
 
 
