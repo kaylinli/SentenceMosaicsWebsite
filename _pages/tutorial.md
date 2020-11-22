@@ -31,6 +31,7 @@ We recommend images that show:
     <li>Select an image, then tap “New Sentence”</li>
     <li>Three blank color tiles will automatically appear on the board. They represent the following:
         (If you don’t want to use the three default tiles to start your sentence, you can “clear” them.) </li>
+        <img src = "/assets/tutorialpictures/creatingasentence.jpg" />
     <li>Add words by tapping on a blank tile to show preset choices that you can swap into the tile. Type in your own words by tapping the “+” option.</li>
     <li>Expand your sentence by adding new color tiles to represent different parts of speech.</li>
     <li>Rearrange the words by pressing down on a tile then moving it over.</li>
