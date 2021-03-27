@@ -6,9 +6,6 @@ include_in_header: true
 
 # The Team
 
-<b>Contact Us:</b>
-<script type="text/javascript" src="https://form.jotform.com/jsform/210786355160152"></script>
-
 <b>Program Development and Implementation:</b> Alyse O. Baker, CCC-SLP, Wexford, PA 
 
 <b>App Design and Development:</b> Designed and Developed by Design for America, a student organization at Carnegie Mellon University that creates technology and design solutions for social good. 
@@ -35,5 +32,3 @@ include_in_header: true
 <b>Oversight:</b> David Kosbie, Carnegie Mellon University
 
 <b>Initial Liason:</b> Dr. Stephen Pellathy, Hampton Township School District, Allison Park, PA
-
-<b>Contact Information:</b> Design for America: <a href="mailto:cmu.designforamerica@gmail.com">cmu.designforamerica@gmail.com</a>  

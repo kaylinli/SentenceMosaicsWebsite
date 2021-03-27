@@ -19,11 +19,19 @@
 	</div>
 	<nav class="scroll">
 		<ul>
-			{% for page in site.pages %}
+			<!-- The following code makes it so that every file in the _pages folder is added to the site header -->
+			<!-- This also means that since files are arranged in alphabetical order, the header is in alphabetical order -->
+			<!-- {% for page in site.pages %}
 				{% if page.include_in_header == true %}
 				<li><a href="{{ page.url | relative_url }}" target="_self">{{ page.title }}</a></li>
 				{% endif %}
-			{% endfor %}
+			{% endfor %} -->
+
+			<!-- This is the manual version of adding pages to the site header -->
+			<li><a href="/about">About</a></li>
+			<li><a href="/team">Team</a></li>
+			<li><a href="/tutorial">Tutorial</a></li>
+			<li><a href="/contact">Contact</a></li>
 			{% if site.presskit_download_link %}
 				<li><a href="{{ site.presskit_download_link }}">Press Kit</a></li>
 			{% endif %}

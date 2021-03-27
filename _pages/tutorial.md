@@ -5,8 +5,7 @@ include_in_header: true
 ---
 
 # Sentence Mosaics Tutorial
-If you have any issues, please contact us at <a href="mailto: cmu.designforamerica@gmail.com">cmu.designforamerica@gmail.com</a>.
-
+If you have any issues, please contact us by filling out <a href="/contact">our contact form</a>.
 <br>
 
 # **Selecting a folder**
