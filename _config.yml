@@ -47,7 +47,7 @@ features                                  :
     fontawesome_icon_name                 : folder-open
 
   - title                                 : Listen to recordings of sentences
-    description                           : Users can record the pronunciation of sentences and listen to the recordings as they practice saying the sentences themselves.
+    description                           : Users can record sentences and listen to the recordings as they practice saying the sentences themselves.
     fontawesome_icon_name                 : microphone
 
 
